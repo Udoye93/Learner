@@ -1,4 +1,0 @@
-home
-source
-exit
-purchase
